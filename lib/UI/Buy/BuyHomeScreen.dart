@@ -39,7 +39,7 @@ class _BuyHomeScreenState extends State<BuyHomeScreen>
               child: Text("Welcome in", style: ThemeText.smallTextwithGrey),
             ),
             Center(
-              child: Text("JD's Plants Shop", style: ThemeText.titleText),
+              child: Text("Plants Shop", style: ThemeText.titleText),
             ),
             SizedBox(
               height: totalHeight * 0.03,
